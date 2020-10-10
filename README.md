@@ -1,0 +1,2 @@
+# myColors
+Rainbow colors
